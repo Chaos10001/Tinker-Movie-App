@@ -1,0 +1,81 @@
+const digitalData = [
+  {
+    id: 1,
+    title: "Space Game",
+    img: "./img1.jpg",
+    rating: "4.8",
+    body: "Lorem ipsum dolor sit, amet consectetur ",
+  },
+  {
+    id: 2,
+    title: "Spider Man",
+    img: "./img2.jpg",
+    rating: "4.8",
+    body: "Lorem ipsum dolor sit, amet consectetur ",
+  },
+  {
+    id: 3,
+    title: "What If ?",
+    img: "./img3.jpg",
+    rating: "4.8",
+    body: "Lorem ipsum dolor sit, amet consectetur ",
+  },
+  {
+    id: 4,
+    title: "The King Of Snakes",
+    img: "./img4.jpg",
+    rating: "4.8",
+    body: "Lorem ipsum dolor sit, amet consectetur ",
+  },
+  {
+    id: 5,
+    title: "ShangChi",
+    img: "./img5.jpg",
+    rating: "4.8",
+    body: "Lorem ipsum dolor sit, amet consectetur ",
+  },
+  {
+    id: 6,
+    title: "Sucide Squard",
+    img: "./img6.jpg",
+    rating: "4.8",
+    body: "Lorem ipsum dolor sit, amet consectetur ",
+  },
+  {
+    id: 7,
+    title: "Atlantic Rim",
+    img: "./img7.jpg",
+    rating: "4.8",
+    body: "Lorem ipsum dolor sit, amet consectetur ",
+  },
+  {
+    id: 8,
+    title: "Basement",
+    img: "./img8.jpg",
+    rating: "4.8",
+    body: "Lorem ipsum dolor sit, amet consectetur ",
+  },
+  {
+    id: 9,
+    title: "Housefull",
+    img: "./img9.jpg",
+    rating: "4.8",
+    body: "Lorem ipsum dolor sit, amet consectetur ",
+  },
+  {
+    id: 10,
+    title: "Vincenzo",
+    img: "./img10.jpg",
+    rating: "4.8",
+    body: "Lorem ipsum dolor sit, amet consectetur ",
+  },
+  {
+    id: 11,
+    title: "Only a Matter Of Time",
+    img: "./img11.jpg",
+    rating: "4.8",
+    body: "Lorem ipsum dolor sit, amet consectetur ",
+  },
+];
+
+export default digitalData;

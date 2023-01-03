@@ -1,0 +1,24 @@
+.content {
+  height: 32rem;
+
+  width: 14.8rem;
+  margin-bottom: 3rem;
+  background-color: rgb(234, 238, 238);
+}
+.content img {
+  width: 100%;
+  height: 15rem;
+  /* height: 100%; */
+  cursor: pointer;
+  transition: all 1s ease-in-out;
+}
+.content img:hover {
+  transform: rotate(10deg);
+}
+.content video {
+  width: 100%;
+  height: 15rem;
+}
+.links-a {
+  color: #dc3545 !important;
+}

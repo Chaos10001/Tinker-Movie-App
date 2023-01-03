@@ -1,0 +1,18 @@
+.nav-a {
+  text-decoration: none !important;
+  transition: 0.7s all ease-in !important;
+  font-size: 1.2rem !important;
+}
+.nav-a:hover {
+  color: #dc3545 !important;
+}
+.nav-a-1 {
+  font-size: 1.2rem !important;
+}
+/* a {
+  text-decoration: none !important;
+  transition: 2s all ease-in;
+}
+a {
+  color: #dc3545;
+} */

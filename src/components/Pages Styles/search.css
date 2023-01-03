@@ -1,0 +1,16 @@
+.content img {
+  width: 100%;
+  height: 15rem;
+  /* height: 100%; */
+  cursor: pointer;
+  transition: all 1s ease-in-out;
+}
+.content-div {
+  height: 460px;
+  /* border: 1px solid black; */
+  margin: rem;
+  padding: 20px;
+}
+p {
+  margin: 0 auto;
+}

@@ -1,0 +1,51 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: monospace;
+}
+footer {
+  background-color: black;
+  height: 62vh;
+}
+.icon {
+  height: 2rem;
+  width: 2rem;
+  border-radius: 50%;
+  color: white;
+  cursor: pointer;
+  transition: 0.6s all ease-in-out;
+}
+.icon:hover {
+  transform: rotate(360deg);
+  color: #dc3545;
+  /* background-color: gold; */
+}
+.links {
+  display: block !important;
+}
+.a-link {
+  text-decoration: none !important;
+  color: white !important;
+  line-height: 3 !important;
+}
+li {
+  list-style-type: none;
+}
+.p-link {
+  cursor: pointer;
+  transition: 0.9s all ease-in-out;
+}
+.p-link:hover {
+  color: #dc3545 !important;
+  margin-left: 2rem;
+}
+
+@media (max-width: 760px) {
+  footer {
+    background-color: black;
+    height: 124vh;
+  }
+}

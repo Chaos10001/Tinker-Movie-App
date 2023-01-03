@@ -1,0 +1,12 @@
+.premium-block {
+  width: 18rem !important;
+  height: 28rem !important;
+  background-color: white !important;
+  color: black !important;
+  margin-left: -1rem;
+}
+@media (max-width: 760px) {
+  .premium-block {
+    margin-left: -4rem;
+  }
+}

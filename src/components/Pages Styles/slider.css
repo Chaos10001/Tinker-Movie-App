@@ -1,0 +1,35 @@
+body {
+  background: #ccc;
+}
+.slick-slide > div {
+  margin: 0 10px;
+}
+.slick-list {
+  margin: 0 -8px;
+}
+.slider {
+  width: 70%;
+  margin: 0 auto;
+}
+.card {
+  border: 1px solid white !important;
+  background-color: black !important;
+  border-radius: 8px !important;
+  overflow: hidden !important;
+
+  height: 550px !important;
+  color: white;
+}
+
+.card-top img {
+  width: 100%;
+  height: 18rem;
+  transition: 2s all ease-in-out;
+}
+.card-top img:hover {
+  transform: rotate(10deg);
+}
+
+.head h1 {
+  font-family: fantasy;
+}

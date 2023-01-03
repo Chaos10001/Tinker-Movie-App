@@ -1,0 +1,15 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  font-family: monospace;
+  line-height: 2;
+}
+.nr {
+  height: 20rem;
+  width: 20rem;
+  color: #dc3545;
+}
